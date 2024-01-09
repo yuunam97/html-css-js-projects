@@ -7,6 +7,7 @@
 1. <b>Restaurant Menu - HTML</b>
     - Created a menu for a restaurant with focuses on the format, visuals, and the layout using HTML (e.g., starters, main, desserts, drinks). 
     - Hyperlinks to respective social media for ease access. 
+    - **Edit!** (01/09/2024): Added "restaurant_menu_edited.html" and "styles.css" file. This file includes edited menu with order form and some minor adjustments. 
 
 ### Description: 
 Projects accomplished whilst learning HTML + CSS + JS languages. Learning them are quite enjoyable and cannot wait to output more interesting projects as I learn more. 
