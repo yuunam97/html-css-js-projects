@@ -9,6 +9,12 @@
     - Hyperlinks to respective social media for ease access. 
     - **Edit!** (01/09/2024): Added "restaurant_menu_edited.html" and "styles.css" file. This file includes edited menu with order form and some minor adjustments. 
 
+2. <b>Personal Website- HTML + CSS</b>
+    - Personal website that highlights my technical skills, current learnings, and social medias. 
+    - Using CSS to customize the visualization of the HTML outlook. 
+    - Added images, logos, banners, element positions, general formatting, etc. 
+
+
 ### Description: 
 Projects accomplished whilst learning HTML + CSS + JS languages. Learning them are quite enjoyable and cannot wait to output more interesting projects as I learn more. 
 
