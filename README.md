@@ -14,6 +14,13 @@
     - Using CSS to customize the visualization of the HTML outlook. 
     - Added images, logos, banners, element positions, general formatting, etc. 
 
+3. <b>Weather Webpage - HTML + CSS + JS</b>
+    - Weather app that tells the user the current day's weather for respective country
+    - Used CSS to customize the looks, and JS to edit the interactiveness of the user input.
+
+4. <b>Flappy Bird Clone game - HTML + JS + Phaser</b>
+    - Simple Flappy Bird game that I cloned using Phaser package. 
+
 
 ### Description: 
 Projects accomplished whilst learning HTML + CSS + JS languages. Learning them are quite enjoyable and cannot wait to output more interesting projects as I learn more. 
